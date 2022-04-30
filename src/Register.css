@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif
+}
+.sign__container {
+    
+    max-width: 350px;
+    min-height: 500px;
+    margin: 80px auto;
+    padding: 40px 30px 30px 30px;
+    background-color: #ecf0f3;
+    border-radius: 15px;
+}
+
+.h1__head{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 800;
+}
+.header .sign__container{
+    margin-top: -400px;
+}
+.login__container{
+    
+}

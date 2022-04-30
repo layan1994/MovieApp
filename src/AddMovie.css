@@ -1,0 +1,13 @@
+
+
+.product__container{
+    max-width: 700px;
+    min-height: 400px;
+    margin: 80px auto;
+    padding: 40px 30px 30px 30px;
+    background-color: #ecf0f3;
+    border-radius: 15px;
+}
+.product__container{
+    margin-top: -230px;
+}

@@ -1,0 +1,14 @@
+.card{
+    position: fixed;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 18rem;
+}
+
+.card__grid{
+
+    display: flex;
+    min-height: 100%;
+    flex-wrap: row;
+    flex-direction: row;
+}
